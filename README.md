@@ -2,6 +2,9 @@
 
 This algorithm runs a random obstable voxel map generation and uses classical artificial potential field equations to drive a robot.
 
+https://youtu.be/p4NFpEkLnwE
+
+
 https://user-images.githubusercontent.com/58446071/197935978-93dff721-a33b-41c5-8bc6-21cd546c821c.mp4
 
 As classical issues, local minima, narrow passages, and  Goals Non-Reachable with Obstacle near by:
